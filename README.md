@@ -40,16 +40,11 @@ This is a simple CRUD (Create, Read, Update, Delete) web application built using
    ```bash
    npm start
 
-5. **Open your browser and navigate to:**
-
-
-**Usage**
+# Usage <br>
 **Adding a User:**
-
 Fill in the ID, Name, Age, and Email fields.
 Click on the "Create" button to add the user to the table.
-Editing a User:
-
+**Editing a User:**<br>
 Click on the "Edit" button next to the user you want to edit.
 Modify the details in the form fields.
 Click on the "Update" button to save the changes.
@@ -60,14 +55,14 @@ Confirm the deletion in the popup dialog.
 API Integration
 This application uses Axios for making API requests to perform CRUD operations. Ensure that the backend API endpoints are correctly configured to handle requests from the frontend.
 
-**Contributing**
+**Contributing:**
 If you would like to contribute to this project, please fork the repository and submit a pull request with your changes. We appreciate your contributions!
 
 
-**Acknowledgements**
-React JS documentation: https://reactjs.org/docs/getting-started.html
+**Acknowledgements:**
+React JS documentation: https://reactjs.org/docs/getting-started.html<br>
 Axios documentation: https://axios-http.com/docs/intro
 
-**Contact**
+**Contact:**<br>
 For any questions or feedback, please contact me at adnaanmansuri8@example.com.
 
