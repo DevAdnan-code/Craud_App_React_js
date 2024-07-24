@@ -23,22 +23,22 @@ This is a simple CRUD (Create, Read, Update, Delete) web application built using
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/crud-web-app.git
+   git clone https://github.com/DevAdnan-code/Craud_App_React_js
    
 2. **Navigate to the project directory:**
 
- ```bash
+   ```bash
    cd crudapp
 
 3. **Install dependencies:**
 
-```bash
-  npm install
+   ```bash
+   npm install
 
 4. **Start the development server:**
 
-```bash
- npm start
+   ```bash
+   npm start
 
 5. **Open your browser and navigate to:**
 
